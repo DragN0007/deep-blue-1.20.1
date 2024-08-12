@@ -1,0 +1,14 @@
+{
+  "type": "deepblue:spawn_biome_modifier",
+  "biomes": [
+    "ocean",
+    "deep_ocean",
+    "warm_ocean",
+    "lukewarm_ocean",
+    "cold_ocean",
+    "deep_lukewarm_ocean",
+    "deep_cold_ocean",
+    "frozen_ocean",
+    "deep_frozen_ocean"
+  ]
+}
