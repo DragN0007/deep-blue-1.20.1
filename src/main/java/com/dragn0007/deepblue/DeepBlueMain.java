@@ -1,7 +1,5 @@
 package com.dragn0007.deepblue;
 
-import com.dragn.bettas.biome.BettaBiomeModifier;
-import com.dragn.bettas.item.BettasItemTab;
 import com.dragn0007.deepblue.deepblueblocks.DeepBlueBlocks;
 import com.dragn0007.deepblue.deepblueevent.DeepBlueEvent;
 import com.dragn0007.deepblue.deepblueitems.DeepBlueItemTabModifier;
